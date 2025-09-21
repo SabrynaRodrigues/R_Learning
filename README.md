@@ -21,14 +21,6 @@ The dataset contains the following variables:
 | Umidade | Invalid values (>100) | Replaced with median |
 | Vento | Missing values (NA) | Replaced with "FALSO" |
 
-## Usage
-1. Ensure `tempo.csv` is in your working directory
-2. Run the `data_cleaning.R` script in R/RStudio
-3. The cleaned dataset will be stored in the `data` variable
-
-## Requirements
-- R base installation
-- No additional packages required
 
 ## Author
-[Your Name/Username]
+Sabryna Rodrigues
